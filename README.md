@@ -23,6 +23,7 @@ Automatically removes Cata uncommon quality Jewelcrafting recipes like: Design: 
 ### Auto-opening containers:
 
 If any of the following gets detected in the bag, it gets immediately opened:
+
 *Silkworm Cocoon
 
 *Goodies from Nomi
