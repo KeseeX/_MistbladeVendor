@@ -12,7 +12,7 @@ Automatically sells grey items on any vendor interaction.
 
 Automatically sells the following items (considered trash with common quality) on any vendor interaction: Pandaren Plum Wine, Junglevine Wine, Caraway Burnwine, Silverwine, Glass of Eversong Wine, Fizzy Fruit Wine, Sunkissed Wine, Master Healing Potion, Skewered Peanut Chicken, Pearl Milk Tea, Roasted Barley Tea, Four Winds Soju, Pounded Rice Cake, Dried Peaches, Yak Cheese Curds, Toasted Fish Jerky, Dried Needle Mushrooms, Boiled Silkworm Pupa, Peach Pie, Red Bean Bun, Blanched Needle Mushrooms, Frybread, Golden Carp Consomme, Roasted Beef, Sparkling Oasis Water, Iron-Bound Zandalari Journal, Torn Zandalari Journal,  Waterlogged Zandalari Journal, Blood-Spattered Zandalari Journal, Frayed Zandalari Journal.
 
-Disclaimer: This addon automatically sells most of the common pandaria food. Exclusions are Green Curry Fish (crit), Tangy Yogurt (haste), and Restorative Amber (Klaxxi quick regen food). It is therefore advised to use these 3 types of food for regen (or any 250, 275 or 300 stat food).
+![Disclaimer](https://img.shields.io/badge/Disclaimer-Important-red): This addon automatically sells most of the common pandaria food. Exclusions are Green Curry Fish (crit), Tangy Yogurt (haste), and Restorative Amber (Klaxxi quick regen food). It is therefore advised to use these 3 types of food for regen (or any 250, 275 or 300 stat food).
 
 ### Automatically removes unsellable trash items
 
