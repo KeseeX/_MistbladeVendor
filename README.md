@@ -56,6 +56,19 @@ Sack of Crocolisk Belly, Sack of Emperor Salmon, Sack of Giant Mantis Shrimp, Sa
 ### Vendor UI Modifications
 
 Nam Ironpaw (Cooking Vendor)
+It allows You to easily find items and spam-click to get amount You need.
+
+
+![image](https://github.com/user-attachments/assets/84b53138-84b9-45eb-986a-d21ddca742ee)
+
+
 
 Danky (Spirit of Harmony Vendor) + Krystel (Spirit of Harmony Vendor)
+Same functionality as Nam Ironpaw one.
+
+
+![image](https://github.com/user-attachments/assets/f35fb367-1570-4127-aae5-2cbac67103b4)
+
+
+Created by Kesee
 
