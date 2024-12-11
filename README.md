@@ -1,4 +1,4 @@
-## MistbladeVendor
+# MistbladeVendor
 
 **MistbladeVendor** is 
 
@@ -20,7 +20,7 @@ Automatically removes Blingtron trash items: Party G.R.E.N.A.D.E., G91 Landshark
 
 Automatically removes Cata uncommon quality Jewelcrafting recipes like: Design: Flashing Carnelian, Design: Fine Hessonite, Design: Steady Jasper etc.
 
-### Auto-opening containers:
+### Auto-opening containers
 
 If any of the following gets detected in the bag, it gets immediately opened:
 
